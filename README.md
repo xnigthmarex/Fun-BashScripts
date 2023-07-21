@@ -1,2 +1,2 @@
 # Fun-BashScripts
-these are some small bash\Java projects by me 
+these are some small projects written in Java and Bash
